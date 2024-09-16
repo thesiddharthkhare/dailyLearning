@@ -1,0 +1,4 @@
+
+"""
+basic syntax
+loop condition
